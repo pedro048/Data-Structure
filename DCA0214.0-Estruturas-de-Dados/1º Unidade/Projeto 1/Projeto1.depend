@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1406574376 source:c:\users\jordy\dropbox\estruturas de dados\pratica 01\projeto1\testecandidato.cpp
+	<cstring>
+	<fstream>
+	<iostream>
+	"Candidato.h"
+
+1533839880 c:\users\jordy\dropbox\estruturas de dados\pratica 01\projeto1\candidato.h
+	<cstring>
+	<sstream>
+
+1533845869 source:c:\users\jordy\dropbox\estruturas de dados\pratica 01\projeto1\testeex1.cpp
+	<cstring>
+	<iostream>
+	"Candidato.h"
+	"NoCandidato.h"
+
+1533868676 c:\users\jordy\dropbox\estruturas de dados\pratica 01\projeto1\nocandidato.h
+	<cstring>
+	<sstream>
+	"Candidato.h"
+
+1533865614 c:\users\jordy\dropbox\estruturas de dados\pratica 01\projeto1\listacandidatos.h
+	"NoCandidato.h"
+
+1533866466 source:c:\users\jordy\dropbox\estruturas de dados\pratica 01\projeto1\testeex2.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533856668 source:c:\users\c6-prof\desktop\pratica 01\projeto1\testeex1.cpp
+	<cstring>
+	<iostream>
+	"Candidato.h"
+	"NoCandidato.h"
+
+1533850680 c:\users\c6-prof\desktop\pratica 01\projeto1\candidato.h
+	<cstring>
+	<sstream>
+
+1533905584 c:\users\c6-prof\desktop\pratica 01\projeto1\nocandidato.h
+	<cstring>
+	<sstream>
+	"Candidato.h"
+
+1533878316 source:c:\users\c6-prof\desktop\pratica 01\projeto1\testeex2.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533909665 c:\users\c6-prof\desktop\pratica 01\projeto1\listacandidatos.h
+	<cstring>
+	<fstream>
+	"NoCandidato.h"
+
+1533907653 source:c:\users\c6-prof\desktop\pratica 01\projeto1\testeex3a.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1407167492 source:c:\users\c6-prof\desktop\pratica 01\projeto1\testeex3b.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533876550 source:c:\users\c6-prof\desktop\pratica 01\projeto1\testecandidato.cpp
+	<cstring>
+	<fstream>
+	<iostream>
+	"Candidato.h"
+
+1407167606 source:c:\users\c6-prof\desktop\pratica 01\projeto1\testeex4.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533907654 source:e:\estruturas de dados\pratica 01\projeto1\testeex3a.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533909666 e:\estruturas de dados\pratica 01\projeto1\listacandidatos.h
+	<cstring>
+	<fstream>
+	"NoCandidato.h"
+
+1533905586 e:\estruturas de dados\pratica 01\projeto1\nocandidato.h
+	<cstring>
+	<sstream>
+	"Candidato.h"
+
+1533850680 e:\estruturas de dados\pratica 01\projeto1\candidato.h
+	<cstring>
+	<sstream>
+
+1533907654 source:f:\estruturas de dados\pratica 01\projeto1\testeex3a.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533990582 f:\estruturas de dados\pratica 01\projeto1\listacandidatos.h
+	<cstring>
+	<fstream>
+	"NoCandidato.h"
+
+1533905586 f:\estruturas de dados\pratica 01\projeto1\nocandidato.h
+	<cstring>
+	<sstream>
+	"Candidato.h"
+
+1533850680 f:\estruturas de dados\pratica 01\projeto1\candidato.h
+	<cstring>
+	<sstream>
+
+1533963480 source:f:\estruturas de dados\pratica 01\projeto1\testeex5.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533967474 source:f:\estruturas de dados\pratica 01\projeto1\testeex6.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1407167898 source:f:\estruturas de dados\pratica 01\projeto1\testeex7.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533878316 source:c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\testeex2.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533991794 c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\listacandidatos.h
+	<cstring>
+	<fstream>
+	"NoCandidato.h"
+
+1533905586 c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\nocandidato.h
+	<cstring>
+	<sstream>
+	"Candidato.h"
+
+1533850680 c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\candidato.h
+	<cstring>
+	<sstream>
+
+1533856668 source:c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\testeex1.cpp
+	<cstring>
+	<iostream>
+	"Candidato.h"
+	"NoCandidato.h"
+
+1533907654 source:c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\testeex3a.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1407167898 source:c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\testeex7.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533967474 source:c:\users\jordy\desktop\1º unidade\pratica 01\projeto1\testeex6.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
